@@ -28,4 +28,4 @@ You can view the live demo of the project [here](#).
 ## Setup
 1. Clone the repository to your local machine:
    ```bash
-   git 
+   git clone https://github.com/ankitgupta7542/apple
